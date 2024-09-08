@@ -32,4 +32,4 @@ jobs:
       run: |
        curl -X POST -H "Content-Type: application/json" \
         -d '{"ref":"${{ github.ref }}", "status": "success"}' \
-        https://1f8b-2401-4900-1f29-33b-902-8a5b-63c4-67b0.ngrok-free.app/webhook/receiver
+        https://0478-171-76-80-184.ngrok-free.app/webhook/receiver
